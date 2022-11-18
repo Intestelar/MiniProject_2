@@ -32,10 +32,10 @@ void measure()
     dist = (duration/2) / 29.1;    //obtain distance
 }
 void loop()
-{ 
-  for (int i=0;i<=2;i++) {   //average distance
+{
+    for (int i=0;i<=2;i++) {   //average distance
     measure();               
-   aver[i]=dist;            
+    aver[i]=dist;            
     delay(10);              //delay between measurements
  }
  dist=(aver[0]+aver[1]+aver[2])/3;    
