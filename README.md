@@ -1,2 +1,9 @@
 # MiniProject_2
-Projects which I learned
+
+| **Smart Dustbin** |
+|:----------|
+|[Source Code]()|
+| [Sample_Output]()|
+| [Documentation]()|
+
+- Projects which I learned
