@@ -8,7 +8,7 @@
 
 | **Smart irrigation sysmtem** |
 |:----------|
-|[Source_Code](https://github.com/SKsaikiran/MiniProject_2/blob/27c5fb71b269c31f5121f009ed43404331e6d408/Smart_irrigation/Smart_irrigation.ino)|
+|[Source_Code](https://github.com/Intestelar/MiniProject_2/blob/main/Smart_irrigation/Smart_irrigation.ino)|
 | [About](https://github.com/SKsaikiran/MiniProject_2/blob/8e09a1795338d0f242e982b630d44b5be6301a12/Smart_irrigation/About.md)|
 |[Sample_Output](https://github.com/SKsaikiran/MiniProject_2/blob/5ed94dcb1b9104e217fa7c7eff48b40172eed187/Smart_irrigation/Serial_Output.jpg)|
 | [Documentation](https://docs.google.com/document/d/1E0E4WA4AXR0ON_7Oh7yXiIbDXwOd193Q/edit?usp=sharing&ouid=108978196529812926312&rtpof=true&sd=true)|
